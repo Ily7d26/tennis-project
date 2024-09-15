@@ -1,0 +1,23 @@
+html {
+    font-family: system-ui;
+}
+
+a {
+    text-decoration: none;
+} 
+ 
+.page-selector {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* .next-page a , .previous-page a{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.previous-page a{
+    flex-direction: row-reverse;
+} */
